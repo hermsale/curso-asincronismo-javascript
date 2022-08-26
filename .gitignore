@@ -1,2 +1,3 @@
 # le indicamos que ignore esta carpeta, debido a que no es necesario en el github
 /node_modules/
+.tempCodeRunnerFile.js
